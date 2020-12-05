@@ -1,0 +1,13 @@
+1. e4 e5
+2. Cf3 Cf6
+3. d4 xd4
+4. e5 Be7
+5. Dd3 c5
+6. Db5 Ce4
+7. e6 xe6
+8. Cg5 Db6
+9. Cxe6 Dxb5
+10. Cxg7+ d3
+11. Cxe8#
+
+1-0
